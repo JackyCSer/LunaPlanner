@@ -45,6 +45,7 @@ public class LunaPlanner
 		FOND, POND
 	};
 
+	
 	// For test:
 	public static void main(String[] args)
 	{
